@@ -1,7 +1,7 @@
 # NLW-Web-Esports
 
 <p>
-<img scr="./src/assets/logo-nlw-esports">
+<img src="./src/assets/VisãoGeral.jpg"></img>
 </p>
 ##🚀 Tecnologias
 
